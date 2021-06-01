@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 
+    0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+}
+.a1{
+    background: #19B5FE;
+    width: 1200px;
+    height: 700px;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: gray 3px 3px 3px 4px;
+}
+.a2{
+    width: 150px;
+    height: 150px;
+    background: url(images/image1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 555px;
+    display: flex;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.a3{
+    display: flex;
+    position: absolute;
+    top: 125%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 20px;
+}
+.a4{
+    display: flex;
+    position: absolute;
+    top: 170%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 40px;
+    background: whitesmoke;
+    border: 1px black solid;
+    border-radius: 45px;
+    text-align: center;
+
+    
+}
+.a5{
+
+
+display: flex;
+position: absolute;
+top: 210%;
+left: 50%;
+transform: translate(-50%,-50%);
+width: 300px;
+height: 40px;
+background: whitesmoke;
+border: 1px black solid;
+border-radius: 45px;
+text-align: center;
+}
+.a6{
+    display: flex;
+    position: absolute;
+    top: 170%;
+    left: -20%;
+    transform: translate(-50%,-50%);
+    width: 20px;
+    
+
+}
+.a7{
+    display: flex;
+    position: absolute;
+    top: 420%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    width: 20px;
+    
+}
+.a8{
+    display: flex;
+position: absolute;
+top: 250%;
+left: 50%;
+transform: translate(-50%,-50%);
+width: 300px;
+height: 40px;
+background: #4B4847;
+border: 1px black solid;
+border-radius: 45px;
+
+}
+
+.a9{
+    display: flex;
+    position: absolute;
+    top: 245%;
+    left: 38%;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+
+}
+.z1{
+    display: flex;
+    position: absolute;
+    top: 288%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: x-small;
+    color: gainsboro;
+    font-size: 9px;
+    
+    text-decoration: none;
+    font-family: 'Baloo Tammudu 2', cursive;
+
+
+    
+}
